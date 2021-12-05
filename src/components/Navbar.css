@@ -1,0 +1,15 @@
+
+#navbarScrollingDropdown{
+    color: white;
+}
+.main-categories{
+    margin-left: 250px;
+    
+}
+/* Navbar2 */
+.flex-container{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+  /* -Navbar2 */
